@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/MauricioMucci">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MauricioMucci&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&langs_count=7&theme=react"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=20&"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&theme=midnight-purple&count_private=true&border_radius=20"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -14,9 +14,9 @@
   
   ##
   
-<div> 
-  <a href="https://www.linkedin.com/in/mauricio-mucci-227b16196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mauriciocarvalhomucci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="display: inline_block"><br>
+  <a align="center" href="https://www.linkedin.com/in/mauricio-mucci-227b16196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a align="center" href = "mailto:mauriciocarvalhomucci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
 </div>
