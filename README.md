@@ -1,8 +1,9 @@
-### Hi there! I'm Mauricio, welcome to my workspace 👋
+### Hi 👋
+I am a computer engineering undegraduate looking for opportunities and collabaration in projects!
 
 <div>
   <a href="https://github.com/MauricioMucci">
-  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=15"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&theme=midnight-purple&count_private=true&border_radius=15"/>
 </div>
 
