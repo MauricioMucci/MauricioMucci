@@ -1,5 +1,5 @@
 ### Hi 👋
-I am a computer engineering undegraduate looking for opportunities and collabaration in projects!
+I am a computer engineering undegraduate looking for opportunities and collaboration in projects!
 
 <div align="center">
   <a href="https://github.com/MauricioMucci">
