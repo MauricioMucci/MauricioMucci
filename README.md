@@ -3,8 +3,8 @@
 I am a computer engineering undegraduate looking for opportunities and collaboration in projects!
 
 <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&langs_count=7&theme=midnight-purple&border_radius=5"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=5"/>
+    <img height="200em" src="https://github-readme-stats-q7odxd0pv-mauriciomucci.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&langs_count=7&theme=midnight-purple&border_radius=5"/>
+  <img height="200em" src="https://github-readme-stats-q7odxd0pv-mauriciomucci.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=5"/>
 </div>
 
 ## Skills 🔓
