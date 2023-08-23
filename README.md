@@ -1,15 +1,11 @@
-### Hi 👋
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Maurício+welcome+to+my+profile!" align="middle" alt="Hi, I'm Maurício welcome to my profile! Animated typed out">
 
 I am a computer engineering undegraduate looking for opportunities and collaboration in projects!
 
-<details>
-  <summary>GitHub Stats 📊</summary>
+## GitHub Stats 📊
 
-<div align="left">
-    <img height="150em" src="https://github-readme-stats-q7odxd0pv-mauriciomucci.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats-q7odxd0pv-mauriciomucci.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-</div>
-</details>
+|![](https://github-readme-stats-mauriciomucci.vercel.app/api/top-langs/?username=MauricioMucci&layout=compact&langs_count=7&theme=midnight-purple)|![](https://github-readme-stats-mauriciomucci.vercel.app/api?username=MauricioMucci&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)|
+|---|---|
 
 ## Skills 🔓
 
