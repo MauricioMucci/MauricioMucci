@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=30&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hi%2C+I'm+Maurício+welcome+to+my+profile!" align="middle" alt="Hi, I'm Maurício welcome to my profile! Animated typed out">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Meslog&weight=600&pause=1000&color=F7F7F7&width=500&height=100&lines=Hi%2C+I'm+Maur%C3%ADcio+welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 I am a computer engineering undegraduate looking for opportunities and collaboration in projects!
 
@@ -10,29 +10,29 @@ I am a computer engineering undegraduate looking for opportunities and collabora
 ## Skills 🔓
 
 <div align="center">
-  <img alt="C" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img alt="Python" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Java" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="React" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="HTML" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="PostgreSQL" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="MySQL" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ## Tools ⚒️
 
 <div align="center">
   <img alt="Git" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="Git-Hub" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="Visual Studio Code" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">  
-  <img alt="Intellij IDEA" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img alt="Linux" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
+  <img alt="Docker" height="40" width="40" style="margin:5px 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+  <img alt="Amazon Web Services" height="40" width="40" style="margin:5px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Google Cloud" height="40" width="40" style="margin:5px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+  <img alt="Jenkins" height="40" width="40" style="margin:5px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
 </div>
 
 ## Contacts 📲
 
 <div align="center">
 <a href="mailto:mauriciocarvalhomucci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mauricio-mucci-227b16196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/mcmucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
 
