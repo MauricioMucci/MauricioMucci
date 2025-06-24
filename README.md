@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Meslog&weight=600&pause=1000&color=F7F7F7&width=500&height=100&lines=Hi%2C+I'm+Maur%C3%ADcio+welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Meslog&weight=600&pause=1000&color=F7F7F7&width=500&height=25&lines=Hi%2C+I'm+Maur%C3%ADcio+welcome+to+my+profile!" alt="Typing SVG" /></a>
 
 I am a computer engineering undegraduate looking for opportunities and collaboration in projects!
 
@@ -27,12 +27,6 @@ I am a computer engineering undegraduate looking for opportunities and collabora
   <img alt="Google Cloud" height="40" width="40" style="margin:5px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
   <img alt="Jenkins" height="40" width="40" style="margin:5px 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg">
 </div>
-
-## Contacts 📲
-
-<div align="center">
-<a href="mailto:mauriciocarvalhomucci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
-<a href="www.linkedin.com/in/mcmucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/MauricioMucci/MauricioMucci/blob/output/github-contribution-grid-snake.svg)
 
